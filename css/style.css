@@ -140,21 +140,19 @@ header .hero h1 {
  header .hero h2 { 
    font-size:31px;
    font-weight: normal;
-   margin: 105px 0 0; 
 }
 
 /* Be Organized */
  header .hero h3 {
    font-size:24px;
    font-weight: normal;
-   margin: 115px 0 0;
  }
 
  /* Be you */
  header .hero h4 {
    font-size:21px;
    font-weight: normal;
-   margin: 125px 0 0;
+}
  
 
  header .hero p {
