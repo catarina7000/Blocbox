@@ -129,31 +129,32 @@ header .hero {
 	position: relative;
 }
 
+/* TakeNote */
 header .hero h1 {
 	font-size: 48px;
 	font-weight: normal;
-	margin: 95 px 0 0;
+	margin: 95px 0 0;
 }
 
 /* Stay on Track */
  header .hero h2 { 
    font-size:31px;
    font-weight: normal;
-   margin: 95px 0 0; 
+   margin: 75px 0 0; 
 }
 
 /* Be Organized */
  header .hero h3 {
    font-size:24px;
    font-weight: normal;
-   margin: 95px 0 0;
+   margin: 55px 0 0;
  }
 
  /* Be you */
  header .hero h4 {
    font-size:21px;
    font-weight: normal;
-   margin: 95px 0 0;
+   margin: 35px 0 0;
  
 
  header .hero p {
