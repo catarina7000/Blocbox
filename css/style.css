@@ -78,3 +78,104 @@ p {
 		width: 1170px;
 	}
 }
+
+/* HEADER */
+header {
+	color: #FFFFFF;
+	/* Mask: */
+background: #3CA5A5;
+background-image: linear-gradient(-180deg, rgba(60,165,165,0.61) 0%, #000000 100%);
+}
+
+header nav {
+		padding:1em 0;
+}
+
+header nav ul {
+	display: inline;
+	text-align: right;
+	float: right;
+	margin: 0;
+}
+
+header nav ul > li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0 15px;
+}
+
+header nav ul > li.btn-outline {
+	padding: 10px; 15px;
+	border: 2px solid #FFFFFF;
+	border-radius: 4px;
+}
+
+header nav ul > li btn-outline:hover {
+	background: #FFFFFF;
+}
+
+header nav ul > li > a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+header nav ul > li.btn-outline:hover > a {
+	color: #34495E;
+}
+
+header .hero {
+	text-align: center;
+	display: block;
+	position: relative;
+}
+
+header .hero h1 {
+	font-size: 48px;
+	font-weight: normal;
+	margin: 95 px 0 0;
+}
+
+/* Stay on Track */
+ header .hero h2 { 
+   font-size:31px;
+   font-weight: normal;
+   margin:64px 0 0; 
+}
+
+/* Be Organized */
+ header .hero h3 {
+   font-size:24px;
+   font-weight: normal;
+   margin:40px 0 0;
+ }
+
+ /* Be you */
+ header .hero h4 {
+   font-size:21px;
+   font-weight: normal;
+   margin:19px 0 0;
+ 
+
+ header .hero p {
+ 	font-size: 22px;
+ 	line-height: 26px;
+ 	font-weight: 100;
+ 	margin: 10px 0 40px;
+ }
+
+ header .hero img {
+ 	display: block;
+ 	margin: 3em auto 0;
+ }
+
+ /* BUTTONS */
+ .btn {
+ 	border-radius: 4;
+ 	color: #FFFFFF;
+ 	font-weight: 700;
+ 	text-decoration: none;
+ 	padding: 10px 30 px;
+ 	background: #71F4DB;
+ 	box-shadow: 0px 2px 0px 0px #3CA5A5;
+ }
+ 
