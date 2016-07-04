@@ -45,15 +45,7 @@ p {
 }
 
 
-.one-half {
-	width: 96%;
-	float: left;
-	position: relative;
-	min-height: 1px;
-	margin: 0 2% 9px;
-}
-
-.one-third, .one-fourth {
+.one-half, .one-third, .one-fourth {
 	width: 96%;
 	float: left;
 	position: relative;
@@ -167,7 +159,7 @@ header .hero h1 {
  header .hero h4 {
    font-size:48px;
    font-weight: normal;
-   margin: 95px 0 0;
+   margin: 106px 0 0;
 }
  
 
