@@ -151,14 +151,13 @@ header .hero h1 {
  header .hero h3 {
    font-size:24px;
    font-weight: normal;
-   text-align: center;
  }
 
  /* Be you */
  header .hero h4 {
    font-size:21px;
    font-weight: normal;
-   text-align: center;
+   margin: 95px 0 0;
 }
  
 
