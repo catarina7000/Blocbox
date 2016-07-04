@@ -137,26 +137,26 @@ header .hero {
 
 /* TakeNote */
 header .hero h1 {
-	font-size: 48px;
+	font-size: 21px;
 	font-weight: normal;
 }
 
 /* Stay on Track */
  header .hero h2 { 
-   font-size:31px;
+   font-size:24px;
    font-weight: normal;
 }
 
 /* Be Organized */
  header .hero h3 {
-   font-size:24px;
+   font-size:31px;
    font-weight: normal;
    margin: 95px 0 0;
  }
 
  /* Be you */
  header .hero h4 {
-   font-size:21px;
+   font-size:48px;
    font-weight: normal;
    margin: 95px 0 0;
 }
