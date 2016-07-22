@@ -221,3 +221,60 @@ header .hero h1 {
 .benefits h2 {
 	color: #3CA5A5;
 }
+
+
+/* PRICING */
+.pricing {
+/* need to complete with gradients!!! */
+background: ;
+background: ;
+background-size: cover;
+text-align: center;
+padding: 4em 0;
+}
+
+.pricing h2 {
+	color: #000000;
+}
+
+.pricing p {
+	color: #394443; 
+}
+
+.pricing ul {
+	margin: 0 auto;
+	padding: 2em 0;
+}
+
+.pricing ul li {
+	list-style-type: none;
+}
+
+.box {
+	padding: 0 15px 15px;
+	background: #FFFFFF;
+	box-shadow: opx 2px 4px 0px rgba(0.0.0.0.20);
+	min-height: 439px;
+	position: relative;
+	margin-top: 25px;
+}
+
+.box.middle {
+	min-height: 485px;
+	margin-top: 0px;
+}
+
+.box h3 {
+	font-family: "Libre Baskerville”, Times New Roman, Garamond, serif;
+	font-weight: 600;
+	text-transform: uppercase;
+	background: #7FF4E9;
+	box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.20);
+	left: 0;
+	right: 0;
+	top: 0;
+	text-align: center;
+	margin: 0 -15px 40px;
+	padding: 10px 0;	
+}
+
