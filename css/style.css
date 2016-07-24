@@ -279,7 +279,8 @@ padding: 4em 0;
 }
 
 .box h4 {
-	font-size: 50 px;
+	font-size: 100 px;
+	font-family: "Libre Baskerville", Times New Roman, Garamond, serif;
 	font-weight: normal;
 	margin: 40px 0 10px;
 	color: #3CA5A5;
