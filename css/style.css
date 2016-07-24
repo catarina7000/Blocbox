@@ -278,14 +278,16 @@ padding: 4em 0;
 	padding: 10px 0;	
 }
 
+/* These are the prices */
 .box h4 {
-	font-size: 100 px;
+	font-size: 200 px;
 	font-family: "Libre Baskerville", Times New Roman, Garamond, serif;
 	font-weight: normal;
 	margin: 40px 0 10px;
 	color: #3CA5A5;
 }
 
+/* These are the $ signs */
 .box h4 span {
 	font-size: 32px;
 	vertical-align: top;
