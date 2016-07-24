@@ -280,7 +280,6 @@ padding: 4em 0;
 
 .box h4 {
 	font-size: 50 px;
-	font-size: 50px;
 	font-weight: normal;
 	margin: 40px 0 10px;
 	color: #3CA5A5;
@@ -292,7 +291,7 @@ padding: 4em 0;
 }
 
 .box h4 span.month {
-	font-family: "Oxygen Light", helvetica, Arial, sans-serif;
+	font-family: "Oxygen Light", Helvetica, Arial, sans-serif;
 	font-weight: 100;
 	color: #3CA5A5;
 	font-size: 20px;
@@ -317,4 +316,65 @@ padding: 4em 0;
 	color: #FFFFFF;
 	line-height: 15px;
 	font-style: italic;
+}
+
+/* TESTIMONIALS */
+.testimonials {
+	padding: 4em 0;
+	text-align: center;
+}
+
+.testimonials h2 {
+	color: 394443;
+}
+
+.testimonials ul li {
+	list-style-type: none;
+}
+
+.testimonials blockquote {
+	color: 7FF4E9;
+	text-align: center;
+	font-style: italic;
+	background: #7FF4E9;
+	opacity: 0.35;
+	position: relative;
+	padding: 30px;
+	width: auto;
+	margin: 0;
+}
+
+/* TRIANGLE FOR TESTIMONIAL BUBBLES */
+.testimonials blockquote: after {
+	top: 100%;
+	left: 13%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-top-color: 7FF4E9;
+	opacity: 0.35;
+	border-width: 10px;
+	margin-left: -10px;
+}
+
+/* TESTIMONIAL IMAGES */
+.testimonials img {
+	height: 65px;
+	width: 65px;
+	border-radius: 50%;
+	float: left;
+	display: inline-block;
+	margin: 20px 10px 0 0;
+}
+
+/* TESTIMONIALS NAMES */
+.testimonials p.name {
+	float: left;
+	display: inline-block;
+	text-align: left;
+	font-size: 13px;
+	margin-top: 30px;
 }
